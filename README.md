@@ -24,7 +24,7 @@ refinement passes of the leaders. The candidates played pairwise games under
 the bounty's published judge instructions, each pair in both orders, and this
 picture was the one no other candidate beat. It was then resized to 1024x1024.
 
-`entry.png` holds JPEG data (quality 95, 443,089 bytes): the rules tell the
+`entry.png` holds JPEG data (quality 95, 430,006 bytes): the rules tell the
 format by the first bytes and keep the name `entry.png` either way.
 
 ## Run
